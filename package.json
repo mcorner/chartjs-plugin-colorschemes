@@ -8,6 +8,9 @@
   "jsdelivr": "dist/chartjs-plugin-colorschemes.min.js",
   "unpkg": "dist/chartjs-plugin-colorschemes.min.js",
   "main": "dist/chartjs-plugin-colorschemes.js",
+  "scripts": {
+    "prepare": "npx gulp build"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nagix/chartjs-plugin-colorschemes.git"
